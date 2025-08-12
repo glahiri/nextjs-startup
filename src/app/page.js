@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Page() {
   return (
-    <div className="min-h-screen min-w-full bg-gray-300 flex items-center justify-center">
+    <div className="h-dvh min-w-full bg-gray-300 flex items-center justify-center">
       <div className="h-90 w-150 bg-white rounded-lg shadow-lg grid justify-center">
         <h1 className="text-4xl text-purple-800 my-5 mx-auto">Play & Learn</h1>
         <p className="my-2 mx-auto w-md">
